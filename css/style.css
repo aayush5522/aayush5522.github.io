@@ -1,0 +1,30 @@
+
+.tabs .indicator {
+    background-color: white !important;
+}
+
+.tabs .tab a.active {
+  color: white !important;
+}
+
+.tabs .tab a:hover {
+  color: white !important;
+}
+
+.tabs .tab a {
+  color: rgba(255,255,255, 0.5) !important;
+}
+
+.tabs {
+  background-color: black !important;
+}
+ .row-full{
+ width: 100vw;
+ position: relative;
+ margin-left: -50vw;
+ height: 100px;
+ left: 50%;
+}
+body{
+	background-color: black !important
+}
